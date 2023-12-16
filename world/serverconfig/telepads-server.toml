@@ -1,0 +1,32 @@
+#[x,y,z,dimension,locationName]
+#-locations can be defined in multiple ways:
+#-exact coordinates : 100/64/100/overworld/Your Own TelepadIdentifier name
+#-with margin : -500#1000/64#128/0#500/the_nether/Some Location
+#-random : random/random/random/random/My Random Teleporter
+#-values may be mixed : -100#5000/random/100/the_end/locationNameHere
+#
+reflection_whitelisted_blocks = []
+
+["Teleporting from and to the End"]
+	#Wether to allow the presence of the Ender Dragon to prevent teleporting away from the End
+	"Dragon Teleport Block" = true
+
+["Teleport Items"]
+	#Disable creation of Ender Beads here
+	"Allow anvil pearl crafting" = true
+	#Disable usage of the Ender Beads here
+	"Allow Ender Bead usage" = true
+	#Dsiabe usage of the Ender Necklace here
+	"Allow Ender Necklace usage" = true
+
+["Teleportation Details"]
+	#Penalty cost for teleportation, if set to 0, there will be no exp loss. Set level to 0 if you only want to consume an amount of exp.
+	#Range: 0 ~ 10000
+	"Experience Consumation" = 0
+	#Penalty cost for teleportation, if set to 0, there will be no exp loss. set experience to 0 if you want to consume levels.
+	#Range: 0 ~ 32
+	"Level Consumation" = 0
+	#Delay, in seconds, on how long a player must wait on the telepad block before the gui opens
+	#Range: 1 ~ 60
+	"Teleport GUI Delay" = 3
+
