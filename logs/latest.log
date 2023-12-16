@@ -1,29 +1,62 @@
-[16Dec2023 11:02:35.958] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CarlosYisuX is b47f014a-e8fc-3205-bb1e-6041e42f19d0
-[16Dec2023 11:02:41.674] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75797a96
-[16Dec2023 11:02:41.741] [Server thread/INFO] [Waila/]: Syncing config to CarlosYisuX (b47f014a-e8fc-3205-bb1e-6041e42f19d0)
-[16Dec2023 11:02:41.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Christmas]
-[16Dec2023 11:02:41.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Mysterious Gift]
-[16Dec2023 11:02:41.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlosYisuX[/178.60.68.96:55140] logged in with entity id 159188 at (-5164.888474974853, 113.4172204919428, -1560.0766762748042)
-[16Dec2023 11:03:27.285] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WORLDcodGAMER is 66df1363-84b3-3186-a642-36ab8e9a187a
-[16Dec2023 11:03:32.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aedd722
-[16Dec2023 11:03:32.084] [Server thread/INFO] [Waila/]: Syncing config to WORLDcodGAMER (66df1363-84b3-3186-a642-36ab8e9a187a)
-[16Dec2023 11:03:32.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WORLDcodGAMER[/185.31.106.37:50339] logged in with entity id 159331 at (-5149.475613710741, 108.0, -1560.9833225507696)
-[16Dec2023 11:05:10.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER has made the advancement [Tactical Fishing]
-[16Dec2023 11:34:06.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
-[16Dec2023 11:44:04.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER issued server command: /tp CarlosYisuX @s
-[16Dec2023 11:44:04.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [WORLDcodGAMER: Teleported CarlosYisuX to WORLDcodGAMER]
-[16Dec2023 11:47:23.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has reached the goal [Beaconator]
-[16Dec2023 11:47:23.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Bring Home the Beacon]
-[16Dec2023 12:36:26.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [The Andesite Age]
-[16Dec2023 12:40:48.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Bonk!]
-[16Dec2023 12:47:52.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER has reached the goal [Workout Session]
-[16Dec2023 12:49:12.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has reached the goal [Workout Session]
-[16Dec2023 13:03:26.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER issued server command: /tp @s CarlosYisuX
-[16Dec2023 13:03:26.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [WORLDcodGAMER: Teleported WORLDcodGAMER to CarlosYisuX]
-[16Dec2023 13:54:53.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [The Brass Age]
-[16Dec2023 13:59:28.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@672d6c25
-[16Dec2023 14:02:20.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [We Need to Go Deeper]
-[16Dec2023 14:37:37.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlosYisuX lost connection: Disconnected
-[16Dec2023 14:37:37.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX left the game
-[16Dec2023 14:37:41.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER lost connection: Disconnected
-[16Dec2023 14:37:41.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER left the game
+[16Dec2023 19:43:38.008] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[16Dec2023 19:43:38.012] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21 by BellSoft
+[16Dec2023 19:43:38.238] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/mnt/ignisus/ignisusland/mods/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2315!/ Service=ModLauncher Env=SERVER
+[16Dec2023 19:43:39.012] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.10/fmlcore-1.18.2-40.2.10.jar is missing mods.toml file
+[16Dec2023 19:43:39.014] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.10/javafmllanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[16Dec2023 19:43:39.016] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.10/lowcodelanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[16Dec2023 19:43:39.018] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.10/mclanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[16Dec2023 19:43:39.258] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: flywheel. Using Mod File: /mnt/ignisus/ignisusland/mods/mods/flywheel-forge-1.18.2-0.6.8.a.jar
+[16Dec2023 19:43:39.258] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[16Dec2023 19:43:42.288] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Dec2023 19:43:42.404] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[16Dec2023 19:43:42.406] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Dec2023 19:43:42.434] [main/WARN] [mixin/]: Reference map 'enigmaticgraves.refmap.json' for ppfluids.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2023 19:43:42.547] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Dec2023 19:43:44.421] [main/INFO] [org.magmafoundation.magma.protect.InjectProtect/]: Booting up InjectProtect
+[16Dec2023 19:43:52.429] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzh000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16Dec2023 19:43:52.971] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[16Dec2023 19:43:52.995] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[16Dec2023 19:43:53.102] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.10, for MC 1.18.2 with MCP 20220404.173914
+[16Dec2023 19:43:53.102] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.10 Initialized
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[16Dec2023 19:43:53.299] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[16Dec2023 19:43:53.300] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[16Dec2023 19:43:53.303] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[16Dec2023 19:43:53.307] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[16Dec2023 19:43:53.328] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[16Dec2023 19:43:53.342] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[16Dec2023 19:43:53.367] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[16Dec2023 19:43:53.404] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[16Dec2023 19:43:53.407] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/template_pool / minecraft:village/desert/town_centers]' to registry
+[16Dec2023 19:43:53.425] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[16Dec2023 19:43:53.428] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[16Dec2023 19:43:53.553] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[16Dec2023 19:43:53.694] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Dec2023 19:43:54.508] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[16Dec2023 19:43:54.543] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[16Dec2023 19:43:54.559] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[16Dec2023 19:43:55.135] [modloading-worker-0/INFO] [Inventory Profiles Next/]: [Inventory Profiles Next] Inventory Profiles Next - init in Kotlin
+[16Dec2023 19:43:55.197] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[16Dec2023 19:43:55.208] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[16Dec2023 19:43:55.584] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[16Dec2023 19:43:55.591] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[16Dec2023 19:43:55.594] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[16Dec2023 19:43:55.618] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Tinkers Construct.
+[16Dec2023 19:43:55.618] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[16Dec2023 19:43:55.619] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Immersive Engineering.
+[16Dec2023 19:43:55.619] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
+[16Dec2023 19:43:55.676] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[16Dec2023 19:43:55.695] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[16Dec2023 19:43:55.700] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[16Dec2023 19:43:55.714] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[16Dec2023 19:43:55.724] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[16Dec2023 19:43:55.789] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[16Dec2023 19:43:55.792] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[16Dec2023 19:43:55.793] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[16Dec2023 19:43:55.867] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.platform.plugin.ForgePluginManager/]: Found and loaded ChiselsAndBits plugin: jei
+[16Dec2023 19:43:55.884] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.integration.jei.JEICompatConfiguration/]: Loaded JEI Compatibility configuration
