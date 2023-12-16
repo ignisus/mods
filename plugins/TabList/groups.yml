@@ -1,0 +1,49 @@
+# This global group will be applied to all players
+globalGroup:
+  prefix: ''
+  tabname: ''
+  suffix: ''
+
+groups:
+  # Vault group name OR player name OR custom group name (custom is assigned via permission)
+  exampleGroup:
+    prefix: '&a[&cStaff&a]&6 '
+    tabname: '%player-displayname%'
+    suffix: '&7 <12>'
+  
+  Default:
+    prefix: '&7'
+    tabname: '%player%'
+    suffix: ''
+  
+  Admin:
+    prefix: '&7<62>&r %anim:Admin%'
+    tabname: '%player%'
+    suffix: '&7 <62>'
+  
+  PlayerName:
+    prefix: '&a[MyGroup]&7'
+    tabname: '%player%'
+    suffix: ''
+  griefdefender_trust_accessor:
+    prefix: '[griefdefender_trust_accessor] - '
+  griefdefender_trust_container:
+    prefix: '[griefdefender_trust_container] - '
+  griefdefender_definition:
+    prefix: '[griefdefender_definition] - '
+  griefdefender_default:
+    prefix: '[griefdefender_default] - '
+  griefdefender_claim:
+    prefix: '[griefdefender_claim] - '
+  griefdefender_trust_manager:
+    prefix: '[griefdefender_trust_manager] - '
+  griefdefender_option:
+    prefix: '[griefdefender_option] - '
+  griefdefender_claim_group:
+    prefix: '[griefdefender_claim_group] - '
+  griefdefender_trust_builder:
+    prefix: '[griefdefender_trust_builder] - '
+  griefdefender_override:
+    prefix: '[griefdefender_override] - '
+  griefdefender_trust_resident:
+    prefix: '[griefdefender_trust_resident] - '

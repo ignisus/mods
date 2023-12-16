@@ -1,0 +1,29 @@
+[16Dec2023 11:02:35.958] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player CarlosYisuX is b47f014a-e8fc-3205-bb1e-6041e42f19d0
+[16Dec2023 11:02:41.674] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75797a96
+[16Dec2023 11:02:41.741] [Server thread/INFO] [Waila/]: Syncing config to CarlosYisuX (b47f014a-e8fc-3205-bb1e-6041e42f19d0)
+[16Dec2023 11:02:41.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Christmas]
+[16Dec2023 11:02:41.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Mysterious Gift]
+[16Dec2023 11:02:41.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CarlosYisuX[/178.60.68.96:55140] logged in with entity id 159188 at (-5164.888474974853, 113.4172204919428, -1560.0766762748042)
+[16Dec2023 11:03:27.285] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player WORLDcodGAMER is 66df1363-84b3-3186-a642-36ab8e9a187a
+[16Dec2023 11:03:32.016] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@aedd722
+[16Dec2023 11:03:32.084] [Server thread/INFO] [Waila/]: Syncing config to WORLDcodGAMER (66df1363-84b3-3186-a642-36ab8e9a187a)
+[16Dec2023 11:03:32.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: WORLDcodGAMER[/185.31.106.37:50339] logged in with entity id 159331 at (-5149.475613710741, 108.0, -1560.9833225507696)
+[16Dec2023 11:05:10.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER has made the advancement [Tactical Fishing]
+[16Dec2023 11:34:06.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7193ms or 143 ticks behind
+[16Dec2023 11:44:04.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER issued server command: /tp CarlosYisuX @s
+[16Dec2023 11:44:04.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [WORLDcodGAMER: Teleported CarlosYisuX to WORLDcodGAMER]
+[16Dec2023 11:47:23.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has reached the goal [Beaconator]
+[16Dec2023 11:47:23.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Bring Home the Beacon]
+[16Dec2023 12:36:26.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [The Andesite Age]
+[16Dec2023 12:40:48.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [Bonk!]
+[16Dec2023 12:47:52.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER has reached the goal [Workout Session]
+[16Dec2023 12:49:12.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has reached the goal [Workout Session]
+[16Dec2023 13:03:26.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER issued server command: /tp @s CarlosYisuX
+[16Dec2023 13:03:26.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [WORLDcodGAMER: Teleported WORLDcodGAMER to CarlosYisuX]
+[16Dec2023 13:54:53.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [The Brass Age]
+[16Dec2023 13:59:28.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@672d6c25
+[16Dec2023 14:02:20.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX has made the advancement [We Need to Go Deeper]
+[16Dec2023 14:37:37.650] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CarlosYisuX lost connection: Disconnected
+[16Dec2023 14:37:37.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: CarlosYisuX left the game
+[16Dec2023 14:37:41.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: WORLDcodGAMER lost connection: Disconnected
+[16Dec2023 14:37:41.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: WORLDcodGAMER left the game
