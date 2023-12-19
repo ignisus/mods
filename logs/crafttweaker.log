@@ -1,32 +1,32 @@
-[19:55:29.437][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[19:55:29.475][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[19:55:29.477][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[19:55:29.518][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[19:55:29.533][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
-[19:55:31.833][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[19:55:31.839][INFO]: - 'crafttweaker' at version '9.1.209'
-[19:55:31.839][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[19:55:31.839][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
-[19:55:31.839][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[19:55:31.839][INFO]: - 'mekanism' at version '10.2.5'
-[19:55:40.345][INFO]: Started loading scripts for loader 'mekanismcontent'
-[19:55:40.800][INFO]: Compiling and executing scripts
-[19:55:41.470][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[19:55:41.571][INFO]: Execution for loader 'mekanismcontent' completed successfully
-[19:55:41.572][INFO]: Registering 0 custom gases.
-[19:55:41.578][INFO]: Registering 0 custom infuse types.
-[19:55:41.590][INFO]: Registering 0 custom pigments.
-[19:55:41.596][INFO]: Registering 0 custom robit skins.
-[19:55:41.601][INFO]: Registering 0 custom slurries.
-[19:55:42.732][INFO]: Started loading scripts for loader 'initialize'
-[19:55:42.811][INFO]: Compiling and executing scripts
-[19:55:42.815][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[19:55:42.850][INFO]: Execution for loader 'initialize' completed successfully
-[19:56:01.494][INFO]: Started loading scripts for loader 'tags'
-[19:56:01.524][INFO]: Compiling and executing scripts
-[19:56:01.528][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[19:56:01.543][INFO]: Execution for loader 'tags' completed successfully
-[19:56:06.544][INFO]: Started loading scripts for loader 'crafttweaker'
-[19:56:06.560][INFO]: Compiling and executing scripts
-[19:56:06.668][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[19:56:06.677][INFO]: Execution for loader 'crafttweaker' completed successfully
+[20:18:23.627][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[20:18:23.672][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[20:18:23.677][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[20:18:23.691][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[20:18:23.695][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[20:18:25.705][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[20:18:25.706][INFO]: - 'crafttweaker' at version '9.1.209'
+[20:18:25.707][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[20:18:25.707][INFO]: - 'immersivepetroleum' at version '4.2.0-22'
+[20:18:25.707][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[20:18:25.707][INFO]: - 'mekanism' at version '10.2.5'
+[20:18:35.730][INFO]: Started loading scripts for loader 'mekanismcontent'
+[20:18:36.056][INFO]: Compiling and executing scripts
+[20:18:36.845][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[20:18:36.940][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[20:18:36.940][INFO]: Registering 0 custom gases.
+[20:18:36.947][INFO]: Registering 0 custom infuse types.
+[20:18:36.956][INFO]: Registering 0 custom pigments.
+[20:18:36.960][INFO]: Registering 0 custom robit skins.
+[20:18:36.963][INFO]: Registering 0 custom slurries.
+[20:18:38.373][INFO]: Started loading scripts for loader 'initialize'
+[20:18:38.474][INFO]: Compiling and executing scripts
+[20:18:38.476][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[20:18:38.503][INFO]: Execution for loader 'initialize' completed successfully
+[20:18:58.043][INFO]: Started loading scripts for loader 'tags'
+[20:18:58.067][INFO]: Compiling and executing scripts
+[20:18:58.072][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[20:18:58.082][INFO]: Execution for loader 'tags' completed successfully
+[20:19:02.400][INFO]: Started loading scripts for loader 'crafttweaker'
+[20:19:02.445][INFO]: Compiling and executing scripts
+[20:19:02.667][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[20:19:02.695][INFO]: Execution for loader 'crafttweaker' completed successfully
