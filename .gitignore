@@ -6,3 +6,4 @@ plugins/update/
 usercache.json
 usernamecache.json
 plugins/LoginSecurity/
+start.sh
