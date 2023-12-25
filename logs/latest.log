@@ -1,47 +1,47 @@
-[22Dec2023 14:49:56.758] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[22Dec2023 14:49:56.761] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21 by BellSoft
-[22Dec2023 14:49:56.893] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/mnt/ignisus/ignisusland/mods/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2315!/ Service=ModLauncher Env=SERVER
-[22Dec2023 14:49:57.373] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.10/fmlcore-1.18.2-40.2.10.jar is missing mods.toml file
-[22Dec2023 14:49:57.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.10/javafmllanguage-1.18.2-40.2.10.jar is missing mods.toml file
-[22Dec2023 14:49:57.375] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.10/lowcodelanguage-1.18.2-40.2.10.jar is missing mods.toml file
-[22Dec2023 14:49:57.376] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.10/mclanguage-1.18.2-40.2.10.jar is missing mods.toml file
-[22Dec2023 14:49:57.527] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[22Dec2023 14:49:59.693] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Dec2023 14:49:59.787] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[22Dec2023 14:49:59.789] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Dec2023 14:49:59.810] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 1 override(s) found
-[22Dec2023 14:49:59.815] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2023 14:49:59.816] [main/WARN] [mixin/]: Reference map 'enigmaticgraves.refmap.json' for ppfluids.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2023 14:49:59.821] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2023 14:49:59.893] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2023 14:50:01.022] [main/INFO] [org.magmafoundation.magma.protect.InjectProtect/]: Booting up InjectProtect
-[22Dec2023 14:50:05.588] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzp000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[22Dec2023 14:50:05.869] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
-[22Dec2023 14:50:05.886] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
-[22Dec2023 14:50:05.941] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.10, for MC 1.18.2 with MCP 20220404.173914
-[22Dec2023 14:50:05.941] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.10 Initialized
-[22Dec2023 14:50:05.949] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[22Dec2023 14:50:05.987] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[22Dec2023 14:50:06.027] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/template_pool / minecraft:village/desert/town_centers]' to registry
-[22Dec2023 14:50:06.028] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
-[22Dec2023 14:50:06.028] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
-[22Dec2023 14:50:06.038] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
-[22Dec2023 14:50:06.046] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
-[22Dec2023 14:50:06.058] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
-[22Dec2023 14:50:06.070] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
-[22Dec2023 14:50:06.072] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
-[22Dec2023 14:50:06.083] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
-[22Dec2023 14:50:06.087] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[22Dec2023 14:50:06.087] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
-[22Dec2023 14:50:06.089] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[22Dec2023 14:50:06.103] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
-[22Dec2023 14:50:06.182] [modloading-worker-0/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[22Dec2023 14:50:06.183] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.coderbot.iris.Iris
+[22Dec2023 15:02:35.896] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.10, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[22Dec2023 15:02:35.899] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21 by BellSoft
+[22Dec2023 15:02:36.093] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/mnt/ignisus/ignisusland/mods/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2315!/ Service=ModLauncher Env=SERVER
+[22Dec2023 15:02:36.977] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.10/fmlcore-1.18.2-40.2.10.jar is missing mods.toml file
+[22Dec2023 15:02:36.978] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.10/javafmllanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[22Dec2023 15:02:36.979] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.10/lowcodelanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[22Dec2023 15:02:36.980] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /mnt/ignisus/ignisusland/mods/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.10/mclanguage-1.18.2-40.2.10.jar is missing mods.toml file
+[22Dec2023 15:02:37.262] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[22Dec2023 15:02:41.155] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Dec2023 15:02:41.308] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[22Dec2023 15:02:41.315] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Dec2023 15:02:41.364] [main/INFO] [Rubidium/]: Loaded configuration file for Rubidium: 28 options available, 1 override(s) found
+[22Dec2023 15:02:41.371] [main/WARN] [mixin/]: Reference map 'ritchiesprojectilelib-forge-refmap.json' for ritchiesprojectilelib-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2023 15:02:41.373] [main/WARN] [mixin/]: Reference map 'enigmaticgraves.refmap.json' for ppfluids.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2023 15:02:41.382] [main/WARN] [mixin/]: Reference map 'createmechanicalextruder.refmap.json' for create_mechanical_extruder.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2023 15:02:41.529] [main/WARN] [mixin/]: Reference map 'cupboard.refmap.json' for cupboard.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2023 15:02:43.691] [main/INFO] [org.magmafoundation.magma.protect.InjectProtect/]: Booting up InjectProtect
+[22Dec2023 15:02:51.378] [main/WARN] [mixin/]: @ModifyVariable(@At("INVOKE")) Shift.BY=4 on infernal-expansion.mixins.json:common.MixinMultiNoiseBiomeSourcePreset::localvar$zzp000$IE_addNetherBiomes exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22Dec2023 15:02:51.892] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Sound Events Registered!
+[22Dec2023 15:02:51.965] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[22Dec2023 15:02:52.016] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[22Dec2023 15:02:52.063] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.10, for MC 1.18.2 with MCP 20220404.173914
+[22Dec2023 15:02:52.063] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.10 Initialized
+[22Dec2023 15:02:52.298] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.299] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.299] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.299] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.299] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.299] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22Dec2023 15:02:52.408] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Blocks Registered!
+[22Dec2023 15:02:52.409] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Items Registered!
+[22Dec2023 15:02:52.411] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Effects Registered!
+[22Dec2023 15:02:52.437] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Potions Registered!
+[22Dec2023 15:02:52.567] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Types Registered!
+[22Dec2023 15:02:52.593] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Painting Types Registered!
+[22Dec2023 15:02:52.595] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Tile Entity Types Registered!
+[22Dec2023 15:02:52.660] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Biomes Registered!
+[22Dec2023 15:02:52.675] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Loot Modifiers Registered!
+[22Dec2023 15:02:52.701] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/template_pool / minecraft:village/desert/town_centers]' to registry
+[22Dec2023 15:02:52.735] [modloading-worker-0/INFO] [org.infernalstudios.infernalexp.InfernalExpansion/]: Infernal Expansion: Entity Classifications Registered!
+[22Dec2023 15:02:52.746] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[22Dec2023 15:02:52.767] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[22Dec2023 15:02:52.852] [modloading-worker-0/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Dec2023 15:02:52.852] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.coderbot.iris.Iris
 java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
 	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:71) ~[fmlloader-1.18.2-40.2.10.jar:1.0]
 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar:?]
@@ -66,33 +66,33 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/scr
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[22Dec2023 14:50:06.314] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
-[22Dec2023 14:50:06.314] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
-[22Dec2023 14:50:06.369] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Dec2023 14:50:06.504] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[22Dec2023 14:50:06.669] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
-[22Dec2023 14:50:06.693] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
-[22Dec2023 14:50:06.701] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
-[22Dec2023 14:50:06.789] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[22Dec2023 14:50:06.795] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
-[22Dec2023 14:50:07.108] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Tinkers Construct.
-[22Dec2023 14:50:07.108] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
-[22Dec2023 14:50:07.109] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Immersive Engineering.
-[22Dec2023 14:50:07.109] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
-[22Dec2023 14:50:07.411] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
-[22Dec2023 14:50:07.413] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
-[22Dec2023 14:50:07.414] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
-[22Dec2023 14:50:07.435] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
-[22Dec2023 14:50:07.438] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
-[22Dec2023 14:50:07.441] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
-[22Dec2023 14:50:07.445] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
-[22Dec2023 14:50:07.448] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
-[22Dec2023 14:50:07.455] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
-[22Dec2023 14:50:07.457] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
-[22Dec2023 14:50:07.459] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
-[22Dec2023 14:50:07.480] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.platform.plugin.ForgePluginManager/]: Found and loaded ChiselsAndBits plugin: jei
-[22Dec2023 14:50:07.483] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.integration.jei.JEICompatConfiguration/]: Loaded JEI Compatibility configuration
-[22Dec2023 14:50:08.057] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
-[22Dec2023 14:50:08.133] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 47324014-086c-431b-af44-4df15232752e
-[22Dec2023 14:50:08.135] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2023-12-22_14.50.08-fml.txt
-[22Dec2023 14:50:08.137] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d2ed6385-e6c6-40b0-96a6-b6d90b6d3e93
+[22Dec2023 15:02:53.129] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[22Dec2023 15:02:53.129] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[22Dec2023 15:02:53.473] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[22Dec2023 15:02:53.678] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[22Dec2023 15:02:54.230] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlockEntityTypes/]: Loaded block entity configuration.
+[22Dec2023 15:02:54.313] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModBlocks/]: Loaded block configuration.
+[22Dec2023 15:02:54.328] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModeGroups/]: Loaded chisel mode group configuration.
+[22Dec2023 15:02:54.359] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[22Dec2023 15:02:54.365] [modloading-worker-0/INFO] [libIPN/]: [libIPN] libIPN - init in Kotlin
+[22Dec2023 15:02:55.187] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModChiselModes/]: Loaded chisel mode configuration.
+[22Dec2023 15:02:55.194] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModContainerTypes/]: Loaded container type configuration.
+[22Dec2023 15:02:55.201] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModCreativeTabs/]: Loaded item group configuration.
+[22Dec2023 15:02:55.303] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Tinkers Construct.
+[22Dec2023 15:02:55.303] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[22Dec2023 15:02:55.303] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Immersive Engineering.
+[22Dec2023 15:02:55.303] [modloading-worker-0/INFO] [twilightforest/]: Loaded compatibility for mod Curios.
+[22Dec2023 15:02:55.313] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModItems/]: Loaded item configuration.
+[22Dec2023 15:02:55.335] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModMetadataKeys/]: Loaded metadata key configuration.
+[22Dec2023 15:02:55.346] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModelProperties/]: Loaded model property configuration.
+[22Dec2023 15:02:55.355] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperation/]: Loaded modification operation configuration.
+[22Dec2023 15:02:55.357] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModModificationOperationGroups/]: Loaded modification operation group configuration.
+[22Dec2023 15:02:55.366] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModPatternPlacementTypes/]: Loaded pattern placement type configuration.
+[22Dec2023 15:02:55.372] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModRecipeSerializers/]: Loaded recipe serializer configuration.
+[22Dec2023 15:02:55.381] [modloading-worker-0/INFO] [mod.chiselsandbits.registrars.ModTags/]: Loaded tag configuration.
+[22Dec2023 15:02:55.420] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.platform.plugin.ForgePluginManager/]: Found and loaded ChiselsAndBits plugin: jei
+[22Dec2023 15:02:55.436] [modloading-worker-0/INFO] [mod.chiselsandbits.forge.integration.jei.JEICompatConfiguration/]: Loaded JEI Compatibility configuration
+[22Dec2023 15:02:56.454] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[22Dec2023 15:02:56.547] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ab64d3c5-ca06-4dfa-92c7-3162c2f07213
+[22Dec2023 15:02:56.549] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2023-12-22_15.02.56-fml.txt
+[22Dec2023 15:02:56.553] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 836da53c-2c35-40ac-8c17-5a088fdeaa42

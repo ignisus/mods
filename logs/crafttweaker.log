@@ -1,11 +1,11 @@
-[14:50:06.114][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[14:50:06.146][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[14:50:06.147][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[14:50:06.153][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
-[14:50:06.158][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
-[14:50:07.207][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[14:50:07.208][INFO]: - 'crafttweaker' at version '9.1.211'
-[14:50:07.208][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
-[14:50:07.208][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
-[14:50:07.208][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[14:50:07.208][INFO]: - 'mekanism' at version '10.2.5'
+[15:02:52.855][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[15:02:52.894][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[15:02:52.895][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[15:02:52.901][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[15:02:52.903][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[15:02:55.487][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[15:02:55.488][INFO]: - 'crafttweaker' at version '9.1.211'
+[15:02:55.488][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[15:02:55.488][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[15:02:55.488][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[15:02:55.488][INFO]: - 'mekanism' at version '10.2.5'
